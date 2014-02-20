@@ -1,7 +1,6 @@
 {
   "name": "components-underscore",
-  "description": "JavaScript's functional programming helper library. Shim repository.",
-  "homepage": "http://underscorejs.org",
+  "description": "JavaScript's functional programming helper library.",
   "version": "1.5.2",
   "keywords": [
     "util",
@@ -10,10 +9,6 @@
     "client",
     "browser"
   ],
-  "author": "Jeremy Ashkenas <jeremy@documentcloud.org>",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/components/underscore.git"
-  },
-  "main": "underscore.js"
+  "main": "underscore.js",
+  "dependencies": {}
 }
